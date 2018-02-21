@@ -1,0 +1,43 @@
+{
+	"data": [{
+		"id":1,
+		"whin":876341221,
+		"productImage":"/assets/images/schedule_img1.png",
+		"productName":"Warm Bed Mat",
+		"category":"PET PRODUCTS",
+		"subCategory":"BEDDING",
+		"status":"live",
+		"sku":3425345
+	},
+	{
+		"id":2,
+		"whin":876341221,
+		"productImage":"/assets/images/schedule_img2.png",
+		"productName":"Gorgeous Velvet Pet Bed",
+		"category":"PET PRODUCTS",
+		"subCategory":"BEDDING",
+		"status":"live",
+		"sku":3425345
+	},
+	{
+		"id":3,
+		"whin":876341221,
+		"productImage":"/assets/images/schedule_img3.png",
+		"productName":"Velvet Dog Couch",
+		"category":"PET PRODUCTS",
+		"subCategory":"BEDDING",
+		"status":"live",
+		"sku":3425345
+	},
+	{
+		"id":4,
+		"whin":876341221,
+		"productImage":"/assets/images/schedule_img1.png",
+		"productName":"Pizza Pet Dog Beds",
+		"category":"PET PRODUCTS",
+		"subCategory":"BEDDING",
+		"status":"live",
+		"sku":3425345
+	}
+	]
+}

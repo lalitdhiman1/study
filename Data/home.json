@@ -1,0 +1,97 @@
+{
+	"order": [{
+		"id":1,
+		"itemName":"New",
+		"itemQantity":65
+	},
+	{
+		"id":2,
+		"itemName":"Packed",
+		"itemQantity":20
+	},
+	{
+		"id":3,
+		"itemName":"Shipped",
+		"itemQantity":10
+	},
+	{
+		"id":4,
+		"itemName":"Completed",
+		"itemQantity":5
+	}
+],
+"inventory": [{
+		"id": 1,
+		"itemName": "Total SKU's",
+		"itemQantity": 125
+	},
+	{
+		"id": 2,
+		"itemName": "Low Stock",
+		"itemQantity": 47
+	},
+	{
+		"id": 3,
+		"itemName": "Out of Stock",
+		"itemQantity": 16
+	}
+],
+"performance": [{
+	"id":1,
+	"itemName":"Payment cycle",
+	"itemQantity":"20 Days"
+},
+{
+	"id":2,
+	"itemName":"Free wallet transactions",
+	"itemQantity":"2/Month"
+},
+{
+	"id":3,
+	"itemName":"Minimum wallet balance",
+	"itemQantity":"$20000"
+},
+{
+	"id":4,
+	"itemName":"Annual fee",
+	"itemQantity":"$500"
+}
+],
+"sales": [{
+	"id":1,
+	"itemName":"Pet Bedding",
+	"itemQantity":1321
+},
+{
+	"id":2,
+	"itemName":"Dog Collars",
+	"itemQantity":825
+},
+{
+	"id":3,
+	"itemName":"Feeders",
+	"itemQantity":547
+}
+],
+"wallet": [{
+	"id":1,
+	"itemName":"Last Payment",
+	"itemQantity":"$3200"
+},
+{
+	"id":2,
+	"itemName":"Next Payment",
+	"itemQantity":"$2500"
+},
+{
+	"id":3,
+	"itemName":"Outstanding Payments",
+	"itemQantity":"$200"
+},
+{
+	"id":4,
+	"itemName":"Unbilled Orders",
+	"itemQantity":"$600"
+}
+]
+}
