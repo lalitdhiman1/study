@@ -1,0 +1,48 @@
+{
+	"homeCategory": [{
+			"link": "single-product.html",
+			"color": "pink",
+			"colorCode": "#ffe7c8",
+			"category": "collar",
+			"categoryText": "Collar and Leashes",
+			"imgUrl": "img/dogs/collar.png",
+			"width": "49%"
+		},
+		{
+			"link": "single-product.html",
+			"color": "green",
+			"colorCode": "#f7f2cd",
+			"category": "accessories",
+			"categoryText": "Accessories",
+			"imgUrl": "img/dogs/toys.png",
+			"width": "49%"
+		},
+		{
+			"link": "single-product.html",
+			"color": "light-yellow",
+			"colorCode": "#ffa6a6",
+			"category": "bedding",
+			"categoryText": "Bedding",
+			"imgUrl": "img/dogs/beds.png",
+			"width": "100%"
+		},
+		{
+			"link": "single-product.html",
+			"color": "voilet",
+			"colorCode": "#f5a676",
+			"category": "cathouses",
+			"categoryText": "Cat Houses",
+			"imgUrl": "./img/dogs/cat-house.png",
+			"width": "49%"
+		},
+		{
+			"link": "single-product.html",
+			"color": "light-blue",
+			"colorCode": "#ffe7d7",
+			"category": "feeders",
+			"categoryText": "Feeders",
+			"imgUrl": "img/dogs/bowls.png",
+			"width": "49%"
+		}
+	]
+}

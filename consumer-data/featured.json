@@ -1,0 +1,45 @@
+{
+	"featured": [{
+			"link": "single-product.html",
+			"productName": "Lorem Ipsum",
+			"productModel": "MODEL: CC3005-85E",
+			"price": "$49.99",
+			"imgUrl": "img/related/1.png"
+		},
+		{
+			"link": "single-product.html",
+			"productName": "Lorem Ipsum",
+			"productModel": "MODEL: CC3005-95E",
+			"price": "$39.99",
+			"imgUrl": "img/related/2.png"
+		},
+		{
+			"link": "single-product.html",
+			"productName": "Lorem Ipsum",
+			"productModel": "MODEL: CC3005-85E",
+			"price": "$49.99",
+			"imgUrl": "img/related/1.png"
+		},
+		{
+			"link": "single-product.html",
+			"productName": "Lorem Ipsum",
+			"productModel": "MODEL: CC3005-95E",
+			"price": "$39.99",
+			"imgUrl": "img/related/2.png"
+		},
+		{
+			"link": "single-product.html",
+			"productName": "Lorem Ipsum",
+			"productModel": "MODEL: CC3005-85E",
+			"price": "$49.99",
+			"imgUrl": "img/related/1.png"
+		},
+		{
+			"link": "single-product.html",
+			"productName": "Lorem Ipsum",
+			"productModel": "MODEL: CC3005-95E",
+			"price": "$39.99",
+			"imgUrl": "img/related/2.png"
+		}
+	]
+}

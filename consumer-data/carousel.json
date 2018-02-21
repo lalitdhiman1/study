@@ -1,0 +1,15 @@
+{
+	"carousel": [{
+			"link": "product-main.html",
+			"imgUrl": "img/home/1.jpg"
+		},
+		{
+			"link": "product-main.html",
+			"imgUrl": "img/home/2.jpg"
+		},
+		{
+			"link": "product-main.html",
+			"imgUrl": "img/home/3.jpg"
+		}
+	]
+}
