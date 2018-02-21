@@ -2,6 +2,6 @@
 	"data": [{
 			"businessInfo": false,
 			"inRview": false,
-			"signContract": true
+			"signContract": false
 		}]
 }
