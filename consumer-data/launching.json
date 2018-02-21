@@ -1,0 +1,38 @@
+{
+	"launchingSoon": [{
+			"link": "single-product.html",
+			"color": "lightRed",
+			"category": "mobiAcc",
+			"categoryText": "Mobile/Electronic Accessories",
+			"imgUrl": "img/launching/mob-accessories.png"
+		},
+		{
+			"link": "single-product.html",
+			"color": "seaGreen",
+			"category": "school",
+			"categoryText": "Back To School",
+			"imgUrl": "img/launching/back-to-school.png"
+		},
+		{
+			"link": "single-product.html",
+			"color": "skin",
+			"category": "babyProducts",
+			"categoryText": "Baby Products & Toys",
+			"imgUrl": "img/launching/baby-products.png"
+		},
+		{
+			"link": "single-product.html",
+			"color": "offWhite",
+			"category": "festive",
+			"categoryText": "Festive Products",
+			"imgUrl": "img/launching/festive.png"
+		},
+		{
+			"link": "single-product.html",
+			"color": "lightGreen",
+			"category": "fireworks",
+			"categoryText": "Fireworks",
+			"imgUrl": "img/launching/fireworks.png"
+		}
+	]
+}
